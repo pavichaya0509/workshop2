@@ -10,7 +10,7 @@ age = 22
    
 x = 5
 y  = 10
-print( x, "+", y)
+print( x + y)
 
 4.Create a variable called z, assign x + y to it, and display the result.
 
@@ -21,7 +21,7 @@ print(z)
 
 5.Remove the illegal characters in the variable name:
 
-myfirst_name = "John"
+myfirstname = "John"
 
 6.Insert the correct syntax to assign the same value to all three variables in one code line.
 

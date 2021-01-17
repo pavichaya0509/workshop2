@@ -1,6 +1,6 @@
 #จงแสดง "banana"
 fruits = ["apple", "banana", "cherry"]
-print(fruits)
+print(fruits[2])
 
 #จงแก้ไขข้อมูลจาก "apple" เป็น "kiwi"
 fruits = ["apple", "banana", "cherry"]
@@ -14,7 +14,7 @@ print(fruits)
 
 #จงเพิ่ม "lemon" ไประหว่าง "apple" กับ "ิิbananna"
 fruits = ["apple", "banana", "cherry"]
-fruits.insert(1, "lamon")
+fruits.insert(1, "lemon")
 print(fruits)
 
 #จงลบ "cherry" จาก list

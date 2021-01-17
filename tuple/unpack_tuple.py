@@ -1,7 +1,7 @@
 fruits = ["apple", "banana", "cherry"]
 
-(green, yellow, red) = fruits
+(apple, banana, cherry) = fruits
 
-print(green)
-print(yellow)
-print(red)
+print(apple)
+print(banana)
+print(cherry)

@@ -1,6 +1,6 @@
-list1 = (1, 2, 3)
-list2 = (4, 5, 6)
+tuple1 = (1, 2, 3)
+tuple2 = (4, 5, 6)
 
-list3 = list1 + list2
+tuple3 = tuple1 + tuple2
 
-print(list3)
+print(tuple3)

@@ -1,11 +1,11 @@
-thislist = ["apple", "banana", "cherry"]
+thistuple = ["apple", "banana", "cherry"]
 
-print(thislist[0])
-print(thislist[1])
-print(thislist[2])
+print(thistuple[0])
+print(thistuple[1])
+print(thistuple[2])
 
-print(thislist[-1])
-print(thislist[-2])
-print(thislist[-3])
+print(thistuple[-1])
+print(thistuple[-2])
+print(thistuple[-3])
 
-print(thislist[1:])
+print(thistuple[1:])
